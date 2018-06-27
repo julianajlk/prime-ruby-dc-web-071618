@@ -8,5 +8,5 @@ for  i <= num
   end
   i += 1
 end
-puts prime
+return prime
 end
