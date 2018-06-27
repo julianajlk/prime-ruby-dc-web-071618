@@ -2,7 +2,7 @@
 def prime?(num)
 
   if num % i == 0
-    prime = false
+    return false
 
   else prime = true
   end
